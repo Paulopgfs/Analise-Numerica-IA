@@ -1,2 +1,2 @@
-# Analise-Numerica-IA
-Combinação, Analise e filtros de numero. Usando IA para responder.
+# Analise-Númerica-IA
+Combinação, Analise e filtros de número. Usando IA para responder.
